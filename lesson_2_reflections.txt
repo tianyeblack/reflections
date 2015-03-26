@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	It creates an empty git repository on branch master with several files waiting to be tracked. Because only after adding the files we can track the changes.git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area is a buffer for changes to be committed, which working repository is the changed repositorygit. It can be used to separate commits logically.
