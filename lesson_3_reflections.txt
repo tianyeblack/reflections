@@ -13,3 +13,7 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	We can update that remote separately to get knowledge of where the repository goes and if there is divergence, we can merge these two to resolve the differences.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Make some changes and copy the files from other people to manually check the difference and see if it will work. If it works perfectly, I just copy the file in. Using Git and GitHub, we will need create extra merge commits.
